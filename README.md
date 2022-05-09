@@ -1,6 +1,8 @@
 # 1.Calculadora
-Práctica Integradora 1 - Armando una app de tareas.
+**Práctica Integradora 1 - Armando una app de tareas.**
 
-Curso de programación web full stack - Fundación Formar - Digital House.
+[![Screenshot-1.png](https://i.postimg.cc/HnztNsnp/Screenshot-1.png)](https://postimg.cc/dZ7dkFGX)
 
-[Banco Santander - Pampa Energía]
+**Curso de programación Web Full Stack - Fundación Formar - Digital House.**
+
+**Gracias a Banco Santander y Pampa Energía.**
