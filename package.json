@@ -1,0 +1,19 @@
+{
+  "name": "1.calculadora",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculadora.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fedeangeles23/1.Calculadora.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fedeangeles23/1.Calculadora/issues"
+  },
+  "homepage": "https://github.com/fedeangeles23/1.Calculadora#readme"
+}
