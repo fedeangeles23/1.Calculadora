@@ -1,5 +1,5 @@
 # 1.Calculadora
-**Práctica Integradora 1 - Armando una app de tareas.**
+**Práctica Integradora 1 - Haciendo una calculadora.**
 
 [![Screenshot-1.png](https://i.postimg.cc/HnztNsnp/Screenshot-1.png)](https://postimg.cc/dZ7dkFGX)
 
