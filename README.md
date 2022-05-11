@@ -1,7 +1,8 @@
 # 1.Calculadora
 **Práctica Integradora 1 - Haciendo una calculadora.**
 
-[![Screenshot-1.png](https://i.postimg.cc/HnztNsnp/Screenshot-1.png)](https://postimg.cc/dZ7dkFGX)
+[![calculadora1.png](https://i.postimg.cc/XYtqppJ2/calculadora1.png)](https://postimg.cc/NK7BnGRT)
+[![calculadora2.png](https://i.postimg.cc/c1TJfDCt/calculadora2.png)](https://postimg.cc/kD69mvx7)
 
 **Curso de programación Web Full Stack - Fundación Formar - Digital House.**
 
